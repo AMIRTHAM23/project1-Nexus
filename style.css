@@ -8,7 +8,7 @@
 {
     height: 100%;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(wall.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('https://amirtham23.github.io/project1-Nexus/wall.jpg');
     background-position: center;
     background-size: cover;
     position: absolute;
